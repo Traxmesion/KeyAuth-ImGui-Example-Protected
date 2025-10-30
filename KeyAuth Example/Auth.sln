@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{3810DB50-1C28-47BB-8B6E-0E8AE5E725AE}") = "Auth", "Auth.vcxproj", "{F1480393-2CFC-45F1-9B65-EEAE6205941E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1480393-2CFC-45F1-9B65-EEAE6205941E}.Debug|x64.ActiveCfg = Debug|x64
+		{F1480393-2CFC-45F1-9B65-EEAE6205941E}.Debug|x64.Build.0 = Debug|x64
+		{F1480393-2CFC-45F1-9B65-EEAE6205941E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F1480393-2CFC-45F1-9B65-EEAE6205941E}.Debug|x86.Build.0 = Debug|Win32
+		{F1480393-2CFC-45F1-9B65-EEAE6205941E}.Release|x64.ActiveCfg = Release|x64
+		{F1480393-2CFC-45F1-9B65-EEAE6205941E}.Release|x64.Build.0 = Release|x64
+		{F1480393-2CFC-45F1-9B65-EEAE6205941E}.Release|x86.ActiveCfg = Release|Win32
+		{F1480393-2CFC-45F1-9B65-EEAE6205941E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D93D7BE1-ADC8-43AB-8CF0-D31C2D6F12EA}
+	EndGlobalSection
+EndGlobal
